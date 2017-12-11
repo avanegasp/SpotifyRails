@@ -15,3 +15,13 @@
  *= require_bootstrap-sprockets
 *= require_bootstrap
  */
+
+ @import "bootstrap";
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: #FFFCEC;
+}
